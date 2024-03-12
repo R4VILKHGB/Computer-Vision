@@ -13,4 +13,4 @@ I implemented Lucas Kanale optical flow estimation algorithm in a multi-resoluti
 ![Lucas Kanade Multi-resolution](https://github.com/R4VILKHGB/Computer-Vision/blob/c41f7e0f8568462573c0db92b072e707fb69fb82/Lucas-Kanade/Part2_Result_Humanwalking.png)
 
 ## Comparison
-Using a multi-resolution Gaussian pyramid framework 
+Using a multi-resolution Gaussian pyramid framework shows the motion dynamics (both global and local) in the picture with more accuracy. More details are observed in the images that were obtained using the Gaussian pyramid framework, as seen above. And the vector density is more.
