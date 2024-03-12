@@ -7,7 +7,7 @@ detecting the edges of a checkerboard using Canny detector, Hough Transform, and
 <br>
 <br>
 ## test3ImageResult.png
-![test3ImageResult](https://github.com/R4VILKHGB/Edge-Detection-and-Processing/blob/f24679cd629ea9cbbe57a9f05bfa04db9ba325ab/test3ImageResult.png)
+![test3ImageResult](https://github.com/R4VILKHGB/Computer-Vision/blob/7c0094479c63130225195aa749c5f57b228e9c50/Edge-Detection-and-Processing/test3ImageResult.png)
 <br>
 <br>
 ## VideoFrameResult.png
