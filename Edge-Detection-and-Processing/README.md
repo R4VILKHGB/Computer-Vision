@@ -12,5 +12,5 @@ detecting the edges of a checkerboard using Canny detector, Hough Transform, and
 <br>
 ## VideoFrameResult.png
 Processed every 15th frame of a given video and displayed the results, extracting the checkerboard
-![VideoFrameResult](https://github.com/R4VILKHGB/Edge-Detection-and-Processing/blob/f24679cd629ea9cbbe57a9f05bfa04db9ba325ab/VideoFrameResult.png)
+![VideoFrameResult](https://github.com/R4VILKHGB/Computer-Vision/blob/f9d3c703016356255968b2a7b72fb87c1aeeb768/Edge-Detection-and-Processing/VideoFrameResult.png)
 
