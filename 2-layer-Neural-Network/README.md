@@ -6,3 +6,5 @@ The [training script](https://github.com/R4VILKHGB/Computer-Vision/blob/ecc30fc1
 
 The testing script loads the model and predicts the num. of rectangles in the test images along with computing the prediction accuracy.
 
+[training.png](https://github.com/R4VILKHGB/Computer-Vision/blob/3e9eef0c96dcfded9bb330b927f566c7a5012390/2-layer-Neural-Network/training.png) shows the training progress.
+
