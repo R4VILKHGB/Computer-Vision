@@ -4,6 +4,6 @@ The dataset folder has 2 folders for [training](https://github.com/R4VILKHGB/Com
 
 The [training script](https://github.com/R4VILKHGB/Computer-Vision/blob/ecc30fc1079098f61353070c32fb0223f5a765fe/2-layer-Neural-Network/train.m) loads the images and stores them in a 4D array, (height, width, channel, index)--> Channel is 3 for RGB. The ground-truth is and the input data are normalized. The input array is flattened prior to training the neural network. Additionally, regression layer is used instead of a classification layer because the max. num. of rectangles is unknown.
 
-The testing script loads the model and predicts the num. of rectangles in the test images along with computing the prediction accuracy.
+The [testing](https://github.com/R4VILKHGB/Computer-Vision/blob/6a6b9d0777884d00f25a46f839b59ba5856177da/2-layer-Neural-Network/test.m) script loads the model and predicts the num. of rectangles in the test images along with computing the prediction accuracy.
 
 
